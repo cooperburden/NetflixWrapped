@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/NetflixWrappedv2.props" />
+</Project>

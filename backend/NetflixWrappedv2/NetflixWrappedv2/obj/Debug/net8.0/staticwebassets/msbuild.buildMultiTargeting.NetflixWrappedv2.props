@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/NetflixWrappedv2.props" />
+</Project>
